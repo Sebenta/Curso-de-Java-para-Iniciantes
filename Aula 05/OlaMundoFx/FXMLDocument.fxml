@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" blendMode="DARKEN" prefHeight="167.0" prefWidth="320" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="olamundofx.FXMLDocumentController">
+    <children>
+        <Button fx:id="btnClick" alignment="CENTER" contentDisplay="CENTER" layoutX="171.0" layoutY="114.0" onAction="#clicouBotao" prefHeight="28.0" prefWidth="127.0" text="Clique em mim!" textAlignment="CENTER">
+            <font>
+                <Font size="14.0" />
+            </font>
+        </Button>
+        <Label fx:id="lblMenssagem" alignment="CENTER" contentDisplay="TOP" layoutY="48.0" minHeight="16" minWidth="69" prefHeight="45.0" prefWidth="320.0" text="Vai aparcer uma menssagem" textAlignment="CENTER" textFill="#7c1515" textOverrun="CLIP">
+            <padding>
+                <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+            </padding>
+            <font>
+                <Font size="20.0" />
+            </font>
+        </Label>
+    </children>
+</AnchorPane>

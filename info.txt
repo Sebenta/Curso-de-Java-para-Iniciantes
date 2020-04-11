@@ -1,0 +1,71 @@
+ 
+ Formador: Professor Gustavo Guanabara  
+ Site do Curso: http://www.cursoemvideo.com/  
+ Canal do Youtube: https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR  
+
+ Tempo de Curso: (+ou-) 13horas  
+ EMENTA DO CURSO:  
+ T - Teóricas 
+ P - Prática  
+
+Curso de Java – 01 – História do Java  
+T - 00:36:00 
+P - 00:18:00  
+
+Curso de Java – 02 – Como Funciona o Java  
+T - 00:19:00 
+P - 00:19:00 
+
+Curso de Java – 03 – Instalando o JDK no seu Computador  
+T - 00:20:00 
+P - 00:11:00  
+
+Curso de Java – 04 – Primeiro Programa em Java  
+T - 00:23:00  
+P - 00:16:00  
+
+Curso de Java – 05 – Introdução ao Swing e JavaFX  
+T - 00:42:00  
+P - 00:17:00  
+
+Curso de Java – 06 – Tipos Primitivos e Manipulação de Dados  
+T - 00:48:00  
+P - 00:18:00  
+
+Curso de Java – 07 – Operadores Aritméticos e Classe Math  
+T - 00:39:00  
+P - 00:31:00  
+
+Curso de Java – 08 – Operadores Lógicos e Relacionais  
+T - 00:37:00  
+P - 00:22:00  
+
+Curso de Java – 09 – Estruturas Condicionais (Parte 1)  
+T - 00:26:00  
+P - 00:21:00  
+
+Curso de Java – 10 – Estruturas Condicionais (Parte 2)  
+T - 00:27:00  
+P - 00:23:00  
+
+Curso de Java – 11 – Estruturas de Repetição (Parte 1)  
+T - 00:22:00  
+P - 00:18:00  
+
+Curso de Java – 12 – Estruturas de Repetição (Parte 2)  
+T - 00:19:00  
+P - 00:16:00  
+
+Curso de Java – 13 – Estruturas de Repetição (Parte 3)  
+T - 00:22:00  
+P - 00:20:00  
+
+Curso de Java – 14 – Vetores  
+T - 00:36:00  
+P - 00:18:00  
+
+Curso de Java – 15 – Métodos  
+T - 00:24:00  
+P - 00:17:00  
+
+Avaliação: Curso de Java 01:00:00 
