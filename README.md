@@ -33,7 +33,7 @@
 * T - 00:23:00 
 * P - 00:16:00
  
-### Aula 05 - Introduçãoo ao Swing e JavaFX 
+### Aula 05 - Introduçãoo ao Swing e JavaFX 
 * T - 00:42:00 
 * P - 00:17:00
  
