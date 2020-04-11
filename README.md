@@ -9,10 +9,11 @@
 > Site do Curso: http://www.cursoemvideo.com/ <br>
 > Canal do Youtube: https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR
 
-```
+<div style="width: 200px;background-color:green;>
+            
 [ <img src="./logo-cev-horizontal.png" style="width: 200px;background-color:green; "/> ](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
-```
-
+                                                                                    
+</div>
 *Tempo de Curso: (+ou-) 13horas*
 
  EMENTA DO CURSO: 
