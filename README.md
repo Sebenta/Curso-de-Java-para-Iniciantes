@@ -6,8 +6,8 @@
 .: *Os arquivos devem ser usados ​​como auxílio ao estudo. Se você tentar compilar, mantedo a estrutura em que eles se encontram, a maioria vai dar erro.*
 
 > Formador: **Professor Gustavo Guanabara** <br>
-> Github: https://github.com/gustavoguanabara<br>
-> Github: https://github.com/cursoemvideo<br>
+> GitHub: https://github.com/gustavoguanabara<br>
+> GitHub: https://github.com/cursoemvideo<br>
 > Site do Curso: http://www.cursoemvideo.com/ <br>
 > Canal do Youtube: https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR<br>
 
